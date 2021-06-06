@@ -1,1 +1,1 @@
-# -python-django-mysql-vue-element
+python-django-mysql-vue-element
